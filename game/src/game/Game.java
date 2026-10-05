@@ -7,4 +7,9 @@ public class Game {
 		System.out.println("jumping");
 	}
 
+	public void slide()
+	{
+        System.out.println("sliding");
+	}
+
 }
